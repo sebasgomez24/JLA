@@ -1,0 +1,14 @@
+[
+	{
+		"slug": "prop-1",
+	    "name": "Prop 1",
+	    "image": "assests/images/1.jpg",
+	    "featured": true
+	},
+	{
+		"slug": "prop-2",
+	    "name": "Prop 2",
+	    "image": "assests/images/2.jpg",
+	    "featured": true
+	}
+]
